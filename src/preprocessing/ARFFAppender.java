@@ -9,7 +9,7 @@ public class ARFFAppender {
 
     public static void main(String[] args) {
         String dosFilePath = "D:/bowen/CS-775/project/dataset/DoS.arff";
-        String ids2017FilePath = "D:/bowen/CS-775/project/dataset/IDS2017_train_filtered.arff";
+        String ids2017FilePath = "D:/bowen/CS-775/project/dataset/IDS2017_train_filtered_noDoS.arff";
 
         try {
             // Step 1: Load 20% of the DoS data
