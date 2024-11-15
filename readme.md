@@ -136,4 +136,3 @@ To include additional DoS data in the training set, update ARFFAppender.java to 
 Use the generated IDS2017_train_filtered.arff file for training as described in step 16.
 ### Analyze Dataset
 Use Directory2017CSVProcessor.java to analyze the IDS2017 dataset for attack types, quantities, and proportions.
-## Results
